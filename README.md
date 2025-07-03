@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Andre Kosak
 
-<!--
-**andrekosak/andrekosak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! With 10+ years of dedicated experience as a ServiceNow developer, I specialize in designing and implementing scalable, innovative solutions on the ServiceNow platform. My career has been focused on driving digital transformation and process automation for organizations, leveraging deep expertise in ServiceNow development and integration.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🏢 Current role: Freelance ServiceNow Developer
+- 🌍 Based in: Germany
+- 🎓 Education: Computer Science
+- 🗣️ Spoken languages: English, German, Ukrainian
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Programming Languages: JavaScript, Typescript
+- Frameworks & Tools: Node.js, Angular, Docker
+- Cloud & DevOps: AWS, Azure, CI/CD
+- Databases: MongoDB, MariaDB
+
+## 📈 GitHub Stats
+![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrekosak&show_icons=true&theme=radical)
+
+## 📂 Featured Projects
+- **[iconsole-logger](https://github.com/andrekosak/iconsole-logger)**: A better console logger. It has timestamps, colors and more.
+- **[iKosak Sync Now](https://github.com/andrekosak/ikosak-sync-now)**: VSCode extension to sync code to ServiceNow.
+- **[Bitcoin](https://github.com/andrekosak/bitcoin)**: Buy Bitcoins
+
+## 🌱 Currently Learning
+- Kubernetes
+- GraphQL
+- Machine Learning
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/andrekosak/)
+- [Personal Website](https://ikosak.com)
+
+---
+
+*Feel free to explore my repositories and reach out if you'd like to collaborate!*
