@@ -27,6 +27,11 @@ Welcome to my GitHub profile! With 10+ years of dedicated experience as a Servic
 - [LinkedIn](https://www.linkedin.com/in/andrekosak/)
 - [Personal Website](https://ikosak.com)
 
+## 💡 Suggestions for Improvement
+- Add 1–2 short case studies highlighting measurable outcomes from ServiceNow projects (e.g., time saved, SLAs improved).
+- Include links to recent talks or articles to showcase thought leadership.
+- Surface a few key ServiceNow-focused repos with one-line value statements so visitors can explore quickly.
+
 ---
 
 *Feel free to explore my repositories and reach out if you'd like to collaborate!*
