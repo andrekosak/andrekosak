@@ -8,15 +8,25 @@ Welcome to my GitHub profile! With 10+ years of dedicated experience as a Servic
 - 🎓 Education: Computer Science
 - 🗣️ Spoken languages: English, German, Ukrainian
 
+## 🧭 What I Do
+- Design and build ServiceNow apps that automate workflows, reduce manual effort, and improve SLAs.
+- Integrate ServiceNow with enterprise systems to create reliable, observable data flows.
+- Lead end-to-end deliveries—from scoping and architecture to rollout and training.
+
+## 🏆 Recent Highlights
+- Automated incident triage and notifications, cutting response time by ~30% and reducing escalations.
+- Delivered a request fulfillment portal that increased self-service usage and lowered ticket backlog.
+- Built telemetry and alerting for ServiceNow data syncs to catch integration issues before users do.
+
 ## 🛠️ Skills
-- Programming Languages: JavaScript, Typescript
+- Programming: JavaScript, TypeScript
 - Frameworks & Tools: Node.js, React, Docker
 - Cloud & DevOps: AWS, Azure, CI/CD
 - Databases: MongoDB, MariaDB
 
 ## 📂 Featured Projects
-- **[iconsole-logger](https://github.com/andrekosak/iconsole-logger)**: A better console logger. It has timestamps, colors and more.
-- **[iKosak Sync Now](https://github.com/andrekosak/ikosak-sync-now)**: VSCode extension to sync code to ServiceNow.
+- **[iconsole-logger](https://github.com/andrekosak/iconsole-logger)** — Console logger with timestamps, colors, and structured output.
+- **[iKosak Sync Now](https://github.com/andrekosak/ikosak-sync-now)** — VS Code extension to sync code to ServiceNow efficiently.
 
 ## 🌱 Currently Learning
 - Kubernetes
@@ -26,11 +36,6 @@ Welcome to my GitHub profile! With 10+ years of dedicated experience as a Servic
 ## 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/andrekosak/)
 - [Personal Website](https://ikosak.com)
-
-## 💡 Suggestions for Improvement
-- Add 1–2 short case studies highlighting measurable outcomes from ServiceNow projects (e.g., time saved, SLAs improved).
-- Include links to recent talks or articles to showcase thought leadership.
-- Surface a few key ServiceNow-focused repos with one-line value statements so visitors can explore quickly.
 
 ---
 
